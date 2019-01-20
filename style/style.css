@@ -1,0 +1,7 @@
+.cod-table-wrapper {
+    overflow: auto;
+    white-space: nowrap;
+}
+.cod-table-wrapper table {
+    width: 100%;
+}
